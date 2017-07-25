@@ -1,3 +1,0 @@
-Thank you for your interest in PHPVibe!
-
-Simply upload tester.php to your server/hosting account via ftp and visit it in a browser.
