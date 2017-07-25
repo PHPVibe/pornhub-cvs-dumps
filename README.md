@@ -3,9 +3,9 @@ PORNHUB-DUMPS-FOR-PHPVIBE
 
 To use:
 
-Open vibe_videos in phpmyadmin 
-Go to import
-Select a cvs for upload.
+Open vibe_videos in phpmyadmin; 
+Go to import;
+Select a cvs and upload.
 
 Enjoy!
 
