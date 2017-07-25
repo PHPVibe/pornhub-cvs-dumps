@@ -1,5 +1,12 @@
-PHPVibe-Requirements-Tester
+PORNHUB-DUMPS-FOR-PHPVIBE
 ===========================
 
-To use : Upload the files to a folder on your server, open the location in a browser.
-For ffmpeg command replacement opn ff.php and follow the commented code.
+To use:
+
+Open vibe_videos in phpmyadmin 
+Go to import
+Select a cvs for upload.
+
+Enjoy!
+
+For more info : www.phpvibe.com/blog
